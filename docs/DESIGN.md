@@ -1,16 +1,19 @@
 # Design Document: PDE_solver
 
 ## Overview
-Résolveur de problèmes aux dérivées partielles utilisant la méthode des différences finies
+# PDE_solver
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![CI](https://github.com/username/PDE_solver/actions/workflows
 
 ## Architecture
-Le projet est structuré de manière modulaire pour faciliter la maintenance.
+The project follows a modular architecture for maintainability and extensibility.
 
-## Choix techniques
-- Langage: python
-- Approche: Implementation directe avec focus sur la performance
+## Technical Choices
+- Language: python
+- Approach: Direct implementation with focus on correctness and performance
 
-## Améliorations futures
-- Optimisation des performances
-- Ajout de tests supplémentaires
-- Documentation enrichie
+## Future Improvements
+- Performance optimization
+- Additional test coverage
+- Enhanced documentation
